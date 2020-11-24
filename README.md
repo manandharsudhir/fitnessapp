@@ -1,6 +1,6 @@
 # fitnessapp
 
-A new Flutter application.
+In this project I am creating a simple fitness app using firebase as backend
 
 ## Getting Started
 
